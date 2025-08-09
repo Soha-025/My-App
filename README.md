@@ -1,4 +1,4 @@
-### 🚀 Codantix Internship – Task 4
+# 🚀 Codantix Internship – Task 4
 
 This repository contains my submission for **Codantix Internship Task 4** — a modern, minimal React application styled with **Tailwind CSS**.
 
