@@ -110,7 +110,3 @@ my-app/
 ---
 
 💡 *Built with ❤️ for Codantix Internship*
-
----
-
-💡 *Built with ❤️ for Codantix Internship*
