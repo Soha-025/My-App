@@ -53,6 +53,7 @@ my-app/
 
 ## 📸 Preview
 <img width="1878" height="965" alt="Screenshot 2025-08-10 040348" src="https://github.com/user-attachments/assets/a5e39194-6106-4956-b448-a0acc692b2ac" />
+
 ---
 
 💡 *Built with ❤️ for Codantix Internship*
